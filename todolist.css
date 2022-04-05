@@ -1,0 +1,37 @@
+
+.container1
+{
+    background-color: blanchedalmond;
+    display: inline-flexbox;
+
+}
+.frm
+{
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    padding-top: 100px;
+}
+.inpt
+{
+    border-radius: 20px;
+    width: 200px;
+    background-color: brown;
+    font-size: 20px;
+}
+.btn
+{
+    border-top: blue;
+    border-radius: 20px;
+    font-size: 15px;
+    background-color: aqua;
+}
+.list
+{
+    background-blend-mode: color-dodge;
+    background-color: cadetblue;
+    display: inline-block;
+    align-items: stretch;
+    text-align: center;
+
+}
